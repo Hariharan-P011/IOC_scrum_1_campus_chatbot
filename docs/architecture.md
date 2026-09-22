@@ -3,7 +3,7 @@
 ## System Architecture
 
 ```
-USER (Browser / Mobile via QR code)
+USER (Browser / Mobile via QR)
         │
         ▼
 React + Vite (Frontend — port 5173)
